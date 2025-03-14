@@ -1,0 +1,6 @@
+[28-Mar-2024 17:48:30 America/Sao_Paulo] {"message":"The User ID must match the consultant's","error":"forbidden","status":403,"cause":[]}
+[28-Mar-2024 17:48:30 America/Sao_Paulo] {"status":403,"message":"At least one policy returned UNAUTHORIZED.","blocked_by":"PolicyAgent","path":"/payments?access_token=","code":"PA_UNAUTHORIZED_RESULT_FROM_POLICIES"}
+
+[28-Mar-2024 17:50:15 America/Sao_Paulo] {"message":"The User ID must match the consultant's","error":"forbidden","status":403,"cause":[]}
+[28-Mar-2024 17:50:15 America/Sao_Paulo] {"message":"At least one policy returned UNAUTHORIZED.","status":403,"blocked_by":"PolicyAgent","path":"/payments?access_token=","code":"PA_UNAUTHORIZED_RESULT_FROM_POLICIES"}
+
